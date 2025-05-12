@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Neogcamp Bootcamp 
-- 🌱 I’m currently learning Full-Stack Development
+
